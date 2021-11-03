@@ -1,5 +1,3 @@
-/// <reference path="C:\Program Files\OpenRCT2\openrct2.d.ts" />
-
 function main() {
 
 }
